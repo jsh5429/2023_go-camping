@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/2023_go-camping/static/css/main.21cd9648.css",
-    "main.js": "/2023_go-camping/static/js/main.cfc688e2.js",
+    "main.js": "/2023_go-camping/static/js/main.144db30c.js",
     "static/media/camp3.jpg": "/2023_go-camping/static/media/camp3.3a66f4d0fef07dab3d73.jpg",
     "static/media/camp4.jpg": "/2023_go-camping/static/media/camp4.6a3ddcaf120c5d54827f.jpg",
     "static/media/camp1.jpg": "/2023_go-camping/static/media/camp1.7d992fa7e398abe09acb.jpg",
@@ -13,10 +13,10 @@
     "static/media/slick.woff": "/2023_go-camping/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/2023_go-camping/index.html",
     "main.21cd9648.css.map": "/2023_go-camping/static/css/main.21cd9648.css.map",
-    "main.cfc688e2.js.map": "/2023_go-camping/static/js/main.cfc688e2.js.map"
+    "main.144db30c.js.map": "/2023_go-camping/static/js/main.144db30c.js.map"
   },
   "entrypoints": [
     "static/css/main.21cd9648.css",
-    "static/js/main.cfc688e2.js"
+    "static/js/main.144db30c.js"
   ]
 }
