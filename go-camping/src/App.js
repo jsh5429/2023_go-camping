@@ -13,7 +13,7 @@ import './css/App.css'
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path='/' element={<Layout/>}>
             <Route path='/' element={<Home />} />

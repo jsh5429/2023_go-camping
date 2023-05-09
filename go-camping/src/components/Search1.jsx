@@ -311,7 +311,7 @@ export default function Search1() {
                       <Card style={{width : "18rem", backgroundColor : "white", 
                       margin : "auto", width : "500px", marginBottom : "10px",
                       border : "1px solid black", padding : "10px"}}>
-                        <Card.Img variant='top' src='../img/camp5.jpg'/>
+                        <Card.Img variant='top' src={require('../img/camp5.jpg')} width={300}/>
                         <Card.Body>
                           <Card.Title style={{fontSize : "1.2rem"}}>{c["캠핑(야영)장명"]}</Card.Title>
                           <Card.Text>
