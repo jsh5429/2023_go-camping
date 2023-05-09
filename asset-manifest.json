@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.662c0115.css",
-    "main.js": "/static/js/main.10c32eff.js",
-    "static/media/camp3.jpg": "/static/media/camp3.3a66f4d0fef07dab3d73.jpg",
-    "static/media/camp4.jpg": "/static/media/camp4.6a3ddcaf120c5d54827f.jpg",
-    "static/media/camp1.jpg": "/static/media/camp1.7d992fa7e398abe09acb.jpg",
-    "static/media/camp2.jpg": "/static/media/camp2.c2a37c61878ad999d9fe.jpg",
-    "static/media/camp5.jpg": "/static/media/camp5.6f3e6f213e3ff98c539c.jpg",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.662c0115.css.map": "/static/css/main.662c0115.css.map",
-    "main.10c32eff.js.map": "/static/js/main.10c32eff.js.map"
+    "main.css": "/2023_go-camping/static/css/main.21cd9648.css",
+    "main.js": "/2023_go-camping/static/js/main.cfc688e2.js",
+    "static/media/camp3.jpg": "/2023_go-camping/static/media/camp3.3a66f4d0fef07dab3d73.jpg",
+    "static/media/camp4.jpg": "/2023_go-camping/static/media/camp4.6a3ddcaf120c5d54827f.jpg",
+    "static/media/camp1.jpg": "/2023_go-camping/static/media/camp1.7d992fa7e398abe09acb.jpg",
+    "static/media/camp2.jpg": "/2023_go-camping/static/media/camp2.c2a37c61878ad999d9fe.jpg",
+    "static/media/camp5.jpg": "/2023_go-camping/static/media/camp5.6f3e6f213e3ff98c539c.jpg",
+    "static/media/slick.svg": "/2023_go-camping/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/2023_go-camping/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/2023_go-camping/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/2023_go-camping/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/2023_go-camping/index.html",
+    "main.21cd9648.css.map": "/2023_go-camping/static/css/main.21cd9648.css.map",
+    "main.cfc688e2.js.map": "/2023_go-camping/static/js/main.cfc688e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.662c0115.css",
-    "static/js/main.10c32eff.js"
+    "static/css/main.21cd9648.css",
+    "static/js/main.cfc688e2.js"
   ]
 }
